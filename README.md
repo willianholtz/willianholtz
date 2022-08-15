@@ -5,7 +5,7 @@ Atualmente trabalhando com desenvolvimento de games usando a IDE GDevelop, no de
 
 Toda mecânica, é baseada nesse game fenomenal do qual eu sou fã e não canso de jogar.
 
-Foram os games, gosto de programação em Bash, Pascal, C#.
+Fora os games, gosto de programação em Bash, Pascal, C#.
 Usuário Linux desde 2009, com a distro Arch Linux (KISS), ja desenvolvi minha própria iso/distro Linux baseada no Arch com instalação gráfica feita por mim, o qual você pode encontrar aqui [neste link](https://www.hardware.com.br/comunidade/v-t/1510145/).
 
 Tenho alguns trabalhos já desenvolvidos nessa linguagens, caso queiram conhecer, entrem em contato que mostrarei um pouco do meu Portfolio 😁✌
