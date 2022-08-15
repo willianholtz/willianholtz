@@ -1,7 +1,7 @@
 ### Olá, eu sou Willian 👋
 
 Desenvolvedor e programador de sistema.
-Atualmente trabalhando com desenvolvimento de games usando a IDE GDevelop, no desenvolvimento e criação do game "Aya's' Souls - Skeletons Revange"  com o codinome de Project 89. Este projeto que estou desenvolvendo tem o mesmo principio dos JRPG's, no qual meu foco principal é manter a tematica de games desenvolvidos nos anos 90. Inclusive Project 89 é um game baseado no grande game desenvolvido por Koji Igarashi, sim ele mesmo: Castlevania Symphony of The Night. 
+Atualmente trabalhando com desenvolvimento de games usando a IDE GDevelop, no desenvolvimento e criação do game "Aya's' Souls - Skeletons Revange"  com o codinome de Project 89. Este projeto que estou desenvolvendo tem o mesmo principio dos JRPG's, no qual meu foco principal é manter a tematica de games desenvolvidos nos anos 90. Inclusive, Project 89 é um game baseado no grande game desenvolvido por Koji Igarashi, sim ele mesmo: Castlevania Symphony of The Night. 
 
 Toda mecânica, é baseada nesse game fenomenal do qual eu sou fã e não canso de jogar.
 
